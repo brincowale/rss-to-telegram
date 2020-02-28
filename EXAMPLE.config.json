@@ -1,0 +1,23 @@
+{
+  "blogs": {
+    "urls": [
+      "https://www.fly4free.com/flight-deals/spain/feed/",
+      "https://travelfree.info/tag/spain/feed/",
+      "https://www.secretflying.com/posts/category/cities-countries/spain/feed/",
+      "https://ultimallamada.com/feed/",
+      "https://www.guialowcost.es/feed/",
+      "https://www.viajerospiratas.es/feed",
+      "https://www.viajeropedia.com/category/vuelos/feed/",
+      "https://puntosviajeros.com/feed/",
+      "https://ingenierodemillas.com/feed/"
+    ]
+  },
+  "database": {
+    "connection": "user:pass@tcp(host:3306)/db"
+  },
+  "telegram": {
+    "api_key": "00000:AAAAAAAA",
+    "channel": "@telegram"
+  },
+  "sentry": "https://aaaa@sentry.io/00000"
+}
